@@ -1,0 +1,25 @@
+body {
+  background-color: #eff8ff;
+}
+
+hr {
+  background-color: #6f9eaf;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: thin;
+  height: 0px;
+  width: 100%;
+}
+.FaissalImg{
+  border-radius: 100%;
+}
+/*   */
+
+h1 {
+  color: #16c79a;
+}
+
+h3 {
+  color: #16c79a;
+}
